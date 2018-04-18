@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.slide {
+	width: 920px;
+	height: 700px;
+	position: relative;
+	overflow: hidden;
+}
+.slide .layer1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+.slide .layer2 {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	
+}

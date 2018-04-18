@@ -1,0 +1,58 @@
+article.tinnho {
+	width: 325px;
+	height: 265px;
+	margin-right: 22px;
+	border: 1px solid #E9E9E9;
+	float: left;
+}
+article.tinnho img {
+	width: 100%;
+	padding-bottom: 14px;
+}
+article.tinnho a.tdtinnho {
+	text-decoration: none;
+	color: #414141;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 13px;
+	padding-bottom: 32px;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.thongtin {
+	font-family: : tahoma;
+	font-size: 11px;
+	color: gray;
+	text-align: center;
+}
+article.tinlon {
+	width: 650px;
+	padding-bottom: 22px;
+	overflow: hidden;
+	border: 1px solid #E9E9E9;
+}
+article.tinlon img {
+	width: 440px;
+	float: left;
+	margin-right: 22px;
+}
+article.tinlon a.tentg {
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-family: tahoma;
+	font-size: 11px;
+	color: #414141;
+	font-style: italic;
+}
+.phai {
+	font-style: tahoma;
+}
+article.tinlon a.tdlon {
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	display: block;
+}

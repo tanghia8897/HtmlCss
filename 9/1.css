@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.all {
+	width: 280px;
+	height: 210px;
+	position: relative;
+	float: left;
+	padding-left: 2px;
+}
+.all.lonhon {
+	width: 560px;
+	height: 420px;
+}
+a img {
+	width: 100%;
+}
+a.noidung {
+	text-decoration: none;
+	font-size: 14px;
+	color: white;
+	display: block;
+	position: absolute;
+	z-index: 3;
+	bottom: 0px;
+	padding: 8px 13px;
+}
+.all.lonhon a img {
+	width: 560px;
+}
+.all.lonhon a.layer2 {
+	width: 560px;
+	height: 420px;
+}
+
+.all.lonhon a.noidung {
+	font-size: 29px;
+}
+.banner {
+	width: 1140px;
+}
+a.layer2 {
+	width: 280px;
+	height: 210px;
+	position: absolute;
+	z-index: 2;
+	top: 0px;
+	background-image: -webkit-linear-gradient(top,rgba(255, 255, 255, 0.13) 70%,#5a5050 99%);
+	transition: 0.9s;
+}
+	
+a.layer2:hover {
+	opacity: 0;
+}
+.all:hover .noidung {
+	bottom: 8px;
+}

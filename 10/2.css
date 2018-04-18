@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+.tren {
+	width: 360px;
+	height: 200px;
+	position: relative;
+}
+.tren a img {
+	width: 360px;
+}
+.tren a.tieude {
+	font-weight: bold;
+	text-decoration: none;
+	width: 100px;
+	height: 25px;
+	background-color: brown;
+	color: black;
+	display: block;
+	padding: 0px 5px;
+	position: absolute;
+	z-index: 1;
+	top: 0px;
+	left: 0px;
+}
+.tren .gocnho {
+	background-color: white;
+	width: 35px;
+	height: 35px;
+	display: block;
+	position: absolute;
+	bottom: -33px;
+	left:10px;
+	transform: rotate(45deg);
+}

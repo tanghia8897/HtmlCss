@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-image: url(1.jpg);
+}
+.motkhoi {
+	width: 20%;
+	height: 100%;
+	position: relative;
+}
+.motkhoi .nenden {
+	position: absolute; 	
+	z-index: 1;
+	top: 0px;
+	left: 0px;
+	background-color: black;
+	width: 100%;
+	height: 100%;
+	border: 1px solid gray;
+}
+.motkhoi .chu {
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 50px;
+	font-family: 'segoe ui light';
+	color: white;
+	font-size: 30px;
+	width: 100%;
+	text-align: center;
+	background-color: lightblue;
+	display: inline;
+	color: white;
+	padding: 3px;
+	border-radius: 20px;
+}
+.motkhoi .nut {
+	position: absolute;
+	z-index: 3;
+	top: 0px;
+	left: 0px;
+
+}

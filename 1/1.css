@@ -1,0 +1,38 @@
+*{} 
+
+a.linkkhac {
+    display: block;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-bottom: 10px;
+    background-image: url(icon.jpg);
+    background-repeat: no-repeat;
+    background-position: 11px top;
+}
+
+p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin: 11px 0;
+}
+
+a.tieude {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #a2223e;
+    font-family: sans-serif;
+}
+article._1tiin {
+    width:900px;
+    height:300px;
+
+}
+img {
+    width:430px;
+    float:left;
+    margin-right:20px;
+}

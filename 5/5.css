@@ -1,0 +1,36 @@
+div.duoi .tintrai {
+	width: 210px;
+	height: 36px;
+	background-image:url(1.jpg);
+	padding-top: 288px;
+	float: left;
+	margin-right: 10px;
+}
+
+div.duoi .tdtt {
+	text-decoration: none;
+	background-color: rgba(0, 0, 0, 0.56);
+	color: #00CCB0;
+	display: block;	
+	font-size: 14px;
+	font-family: sans-serif; 
+}
+div.phai {
+	width: 660px;
+	height: 320px;
+}
+div.phai a img {
+	width: 140px;
+	height: 85px;
+	float: left;
+	display: block;
+	margin-right: 10px;
+	border-bottom: 1px solid #e9e9e9;
+}
+div.phai a.tdp1 {
+	font-size: 14px;
+	font-family: sans-serif;
+	display: block;
+	text-decoration: none;
+	margin-bottom: -7px;
+}

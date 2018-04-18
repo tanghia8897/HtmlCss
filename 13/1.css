@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'segoe ui light';
+}
+
+.chuto {
+    color: white;
+    font-size: 55px;
+    padding-top: 10px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    margin-top: 5px;
+}
+
+.chunho {
+    font-size: 14px;
+    color: white;
+    padding-top: 150px;
+}
+.so1 {
+    background-image: url(1.jpg);
+    background-position-x:-200px;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.ndso1 {
+    padding-left: 80px;
+}
+a.shop {
+    background: brown;
+    color: white;
+    display: inline-block;
+    padding: 7px 20px;
+    text-decoration: none;
+}
+.nut {  
+    padding-left: 150px;
+}
+a.shop:hover {
+    background: transparent;
+    color: black;
+    border: 1px solid black;
+}
+.so2 {
+    background-image: url(2.jpg);
+    text-align: center;
+    background-attachment: fixed;
+    background-position-x: right;
+    height: 600px;
+    width: 100%;
+}
+.so3 {
+    background-image: url(1.jpg);
+    background-attachment: fixed;
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position-x: -300px; 
+}
+.so3 .ndso3 .chunho {
+    color: yellow;
+}
+.so3 .ndso3 .chuto {
+    color: yellow;
+
+}
